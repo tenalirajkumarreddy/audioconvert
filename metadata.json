@@ -1,0 +1,7 @@
+{
+  "name": "SonicShift AI",
+  "description": "A high-performance audio converter with AI-powered smart analysis, supporting formats like MP4 and M4R with batch processing and ZIP downloads.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
